@@ -4,7 +4,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/GabrielPrezzoti/ebook-ia/blob/main/EBOOK%20IA.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/GabrielPrezzoti/ebook-ia/blob/main/Ebook%20IA.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
